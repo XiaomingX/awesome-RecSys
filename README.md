@@ -2,6 +2,8 @@
 
 整理了一份推荐系统相关的精选资源，适合中国用户快速上手和深入学习。
 
+![image](https://github.com/user-attachments/assets/be994c1b-93f3-47bb-841f-c6ff25101aca)
+
 ---
 
 ## 书籍
